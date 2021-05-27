@@ -31,9 +31,9 @@ No código: S0 = 1000000 (1 milhão de pessoas)
 
 ### Resultados da simulação das equações diferenciais
 
-![S](https://github.com/ferreiraluana/SEIRS-petri/blob/main/s.pdf)
-![E](https://github.com/ferreiraluana/SEIRS-petri/blob/main/e.pdf)
-![I](https://github.com/ferreiraluana/SEIRS-petri/blob/main/i.pdf)
-![R](https://github.com/ferreiraluana/SEIRS-petri/blob/main/r.pdf)
+![S](s.pdf)
+![E](e.pdf)
+![I](i.pdf)
+![R](r.pdf)
 
 
