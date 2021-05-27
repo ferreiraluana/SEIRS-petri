@@ -31,12 +31,15 @@ No código: S0 = 1000000 (1 milhão de pessoas)
 
 ### Resultados da simulação das equações diferenciais
 
-![](s.pdf)
+[Indivíduos Suscetíveis](https://github.com/ferreiraluana/SEIRS-petri/blob/main/s.pdf)
 
-![](e.pdf)
+[Indivíduos expostos](https://github.com/ferreiraluana/SEIRS-petri/blob/main/e.pdf)
 
-![](i.pdf)
+[Indivíduos infecciosos](https://github.com/ferreiraluana/SEIRS-petri/blob/main/i.pdf)
 
-![](r.pdf)
+[Indivíduos recuperados](https://github.com/ferreiraluana/SEIRS-petri/blob/main/r.pdf)
 
+### Relatório com detalhes da simulação:
+
+//todo
 
