@@ -45,5 +45,5 @@ No código: S0 = 1000000 (1 milhão de pessoas)
 
 ### Relatório com detalhes da simulação:
 
-//todo
+[Relatório da modelagem](https://github.com/ferreiraluana/SEIRS-petri/blob/main/Projeto_de_Redes_de_Petri.pdf)
 
