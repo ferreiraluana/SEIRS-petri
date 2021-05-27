@@ -31,9 +31,12 @@ No código: S0 = 1000000 (1 milhão de pessoas)
 
 ### Resultados da simulação das equações diferenciais
 
-![S](s.pdf)
-![E](e.pdf)
-![I](i.pdf)
-![R](r.pdf)
+![](s.pdf)
+
+![](e.pdf)
+
+![](i.pdf)
+
+![](r.pdf)
 
 
