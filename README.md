@@ -18,7 +18,7 @@ Esse modelo epidemiológico estuda o comportamento da infecção viral causada p
 
 ### Parâmetros do modelo
 
-O modelo foi implementado em Python e encontra-se disponível [aqui](https://github.com/ferreiraluana/SEIRS-petri/blob/main/seirs.ipynb) 
+O modelo foi implementado em Python e encontra-se disponível [aqui](https://github.com/ferreiraluana/SEIRS-petri/blob/main/seirs.ipynb). O modelo em CPN Tools encontra-se [aqui](https://github.com/ferreiraluana/SEIRS-petri/blob/main/seirs.cpn).
 
 * S(0) é a população inicial suscetível ao vírus.
 No código: S0 = 1000000 (1 milhão de pessoas)
@@ -30,6 +30,10 @@ No código: S0 = 1000000 (1 milhão de pessoas)
 * período infeccioso médio: gamma = 14 dias
 
 ### Resultados da simulação das equações diferenciais
+
+[Modelagem no CPN Tools](https://github.com/ferreiraluana/SEIRS-petri/blob/main/seirs.png)
+
+![](seirs.png)
 
 [Indivíduos Suscetíveis](https://github.com/ferreiraluana/SEIRS-petri/blob/main/s.pdf)
 
